@@ -363,7 +363,7 @@ a {
 .card p {
   margin: 0;
   color: var(--color-muted);
-  max-width: 20ch;
+  max-width: 28ch;
 }
 
 .more {
